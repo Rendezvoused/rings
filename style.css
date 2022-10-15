@@ -83,31 +83,31 @@ a:hover {
 #sidebarimage img {
       position:fixed;
     max-width:400px;
-    margin-left:875px;margin-top:515px;
+    margin-left:875px;margin-top:315px;
     -webkit-transition: opacity 0.8s linear;
     opacity: ; border:1px solid #3d3d3d; z-index:100;filter:blur(0.2px);border-radius:5px;
 }
 
 .recta{
-	position:fixed;margin-left:265px;margin-top:275px;
+	position:fixed;margin-left:265px;margin-top:75px;
   width: 10px;
 	height: 125px;
 	background-color:#1F2A30;border-radius:5px;
 }
 .cuadrado{
-	position:fixed;margin-left:700px;margin-top:245px;
+	position:fixed;margin-left:700px;margin-top:45px;
   width: 25px;
 	height: 25px;
 	background-color:#2C383C;
 }
 .cuadrado2{
-	position:fixed;margin-left:700px;margin-top:275px;
+	position:fixed;margin-left:700px;margin-top:75px;
   width: 25px;
 	height: 25px;
 	background-color:#455453;
 }
 .cuadrado3{
-	position:fixed;margin-left:700px;margin-top:305px;
+	position:fixed;margin-left:700px;margin-top:105px;
   width: 25px;
 	height: 25px;
 	background-color:#68726E;
@@ -127,7 +127,7 @@ a:hover {
     color:#8C8A79;
     font-size:15px;
     letter-spacing:0.9px;
-    word-spacing:6px; margin-top:480px;margin-left:1175px;opacity:0.7;
+    word-spacing:6px; margin-top:280px;margin-left:1175px;opacity:0.7;
 }
  
 #name {
@@ -149,7 +149,7 @@ a:hover {
     font-family:'Cedarville Cursive',;
     color:#536060;
     font-size:12px;
-    margin-top:735px;line-height:10%;
+    margin-top:535px;line-height:10%;
     text-align:right;
     width:275px;
     margin-left:1000px;
@@ -160,7 +160,7 @@ a:hover {
     font-family:'Cedarville Cursive',;
     color:#737E7C;
     font-size:12px;
-    margin-top:755px;line-height: 120%;
+    margin-top:555px;line-height: 120%;
     text-align:right;
     width:275px;
     margin-left:1000px;
@@ -171,7 +171,7 @@ a:hover {
     font-family: 'Cedarville Cursive',;
     color:#536060;
     font-size:12px;
-    margin-top:770px;line-height: 120%;
+    margin-top:570px;line-height: 120%;
     text-align:right;
     width:275px;
     margin-left:1000px;
@@ -182,7 +182,7 @@ a:hover {
     font-family: 'Cedarville Cursive',;
     color:#737E7C;
     font-size:12px;
-    margin-top:800px;line-height: 120%;
+    margin-top:600px;line-height: 120%;
     text-align:right;
     width:275px;
     margin-left:1000px;
@@ -193,7 +193,7 @@ a:hover {
     font-family: 'Cedarville Cursive',;
     color:#536060;
     font-size:12px;
-    margin-top:815px;line-height: 120%;
+    margin-top:615px;line-height: 120%;
     text-align:right;
     width:275px;
     margin-left:1000px;
@@ -204,7 +204,7 @@ a:hover {
     font-family:'Cedarville Cursive',;
     color:#A79F86;
     font-size:15px;
-    margin-top:650px;line-height: 120%;
+    margin-top:450px;line-height: 120%;
     text-align:left;
     width:200px;
     margin-left:1290px;
@@ -213,5 +213,5 @@ a:hover {
   position:fixed;
   border-left: 275px solid #8C8A79;
   height: 1px;
-  margin-top:495px;margin-left:890px;opacity:0.4;
+  margin-top:295px;margin-left:890px;opacity:0.4;
 }
